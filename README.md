@@ -35,6 +35,8 @@
 
 <img align="center" alt="david-three.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
+<img align="center" alt="david-three.js" height="60" width="70" src="https://cdn.vectorstock.com/i/1000x1000/54/10/laravel-php-web-framework-logo-vector-41005410.webp" />
+
 
 </div>
 
