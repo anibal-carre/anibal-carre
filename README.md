@@ -37,6 +37,8 @@
 
 <img align="center" alt="david-node.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
+<img align="center" alt="david-express.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
 
 </div>
 
