@@ -1,6 +1,6 @@
 ### Hi, I’m Anibal David 👋
 
-- 🌱 I’m currently learning software development
+- 🌱 I’m a Fullstack Developer
 - 📫 How to reach me: anibaldavidcarrenoalvarez@gmail.com
 
 <div>
